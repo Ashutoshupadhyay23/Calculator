@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&family=Bree+Serif&family=Libre+Baskerville&family=Open+Sans:wght@300&family=Roboto&family=Varela+Round&display=swap");
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "Baloo Bhaijaan 2", cursive;
+}
+
+.button {
+  padding: 15px;
+  margin: 0px 2px;
+  border: 1px solid black;
+  border-radius: 15px;
+  cursor: pointer;
+  width: 50px;
+  color: rgb(203, 116, 76);
+  background-color: rgb(238, 226, 212);
+}
+
+.row {
+  margin: 5px 0;
+}
+
+.row input {
+  font-size: 18px;
+  margin: 0;
+  padding: 8px 0;
+  border: 1.5px solid black;
+  border-radius: 10px;
+  background-color: rgb(197, 218, 238);
+}
